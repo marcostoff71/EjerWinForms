@@ -1,0 +1,10 @@
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\bin\Debug\002 Diseño a DatagridView.exe.config
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\bin\Debug\002 Diseño a DatagridView.exe
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\bin\Debug\002 Diseño a DatagridView.pdb
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\obj\Debug\002 Diseño a DatagridView.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\obj\Debug\_002_Diseño_a_DatagridView.Form1.resources
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\obj\Debug\_002_Diseño_a_DatagridView.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\obj\Debug\002 Diseño a DatagridView.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\obj\Debug\002 Diseño a DatagridView.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\obj\Debug\002 Diseño a DatagridView.exe
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\002 Diseño a DatagridView\002 Diseño a DatagridView\obj\Debug\002 Diseño a DatagridView.pdb

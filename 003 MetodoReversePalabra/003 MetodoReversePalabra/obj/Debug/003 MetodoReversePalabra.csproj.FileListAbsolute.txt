@@ -1,0 +1,6 @@
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\003 MetodoReversePalabra\003 MetodoReversePalabra\bin\Debug\003 MetodoReversePalabra.exe.config
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\003 MetodoReversePalabra\003 MetodoReversePalabra\bin\Debug\003 MetodoReversePalabra.exe
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\003 MetodoReversePalabra\003 MetodoReversePalabra\bin\Debug\003 MetodoReversePalabra.pdb
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\003 MetodoReversePalabra\003 MetodoReversePalabra\obj\Debug\003 MetodoReversePalabra.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\003 MetodoReversePalabra\003 MetodoReversePalabra\obj\Debug\003 MetodoReversePalabra.exe
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\003 MetodoReversePalabra\003 MetodoReversePalabra\obj\Debug\003 MetodoReversePalabra.pdb

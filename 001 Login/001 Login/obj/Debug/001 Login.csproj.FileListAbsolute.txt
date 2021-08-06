@@ -1,0 +1,10 @@
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\obj\Debug\001 Login.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\obj\Debug\_001_Login.Form2.resources
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\obj\Debug\_001_Login.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\obj\Debug\001 Login.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\obj\Debug\001 Login.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\bin\Debug\001 Login.exe.config
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\bin\Debug\001 Login.exe
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\bin\Debug\001 Login.pdb
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\obj\Debug\001 Login.exe
+C:\Users\lenovo\Cursos\C#\C# Windows Forms\001 Login\001 Login\obj\Debug\001 Login.pdb
